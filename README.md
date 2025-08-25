@@ -35,6 +35,7 @@ This project demonstrates the quantification and aggregation of credit and marke
 - **Market Risk**: VaR and CVaR computed for portfolio of LQD, TLT, and S&P/TSX; rolling volatility visualized.
 - **Stress Testing**: High stress periods identified via STLFSI; stressed ECL and market risk scenarios simulated.
 - **Scenario Analysis**: Comparison of baseline and stressed portfolio risk under different stress scenarios.
+ ![image 1](https://github.com/YoussefAithaddou/credit-market-risk-basel3/blob/main/visuals/total_portfolio_risk_stress.png)
 
 ## Notes
 - Stress scenarios and synthetic values are illustrative; real-world application requires calibrated data.
