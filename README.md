@@ -9,7 +9,7 @@ This project demonstrates the quantification and aggregation of credit and marke
 - **Aggregation**: Combined analysis of credit and market risks for total portfolio risk.
 
 ## Data Sources
-- **Home Credit Dataset** (Kaggle) – for credit risk modeling [download here] (https://www.kaggle.com/c/home-credit-default-risk/data).
+- **Home Credit Dataset** (Kaggle) – for credit risk modeling [download here](https://www.kaggle.com/c/home-credit-default-risk/data).
 - **Yahoo Finance** – for market risk (LQD, TLT, S&P/TSX Composite Index).
 - **St. Louis Fed FRED** – for financial stress index.
 
